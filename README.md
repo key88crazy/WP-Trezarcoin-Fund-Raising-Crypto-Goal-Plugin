@@ -1,0 +1,2 @@
+# WP Trezarcoin Fund Raising Crypto Goal Plugin
+ Wordpress plugin for creating funding campaigns using Treazarcoin Crypto Currency - Communicating with the TZC Blockchain, each new funding goal created also creates a new Trezarcoin address on the blockchain where people can donate to the cause. When the fund is viewed on the wordpress site, it calls the blockchain and retrieves the current balance of the fund.
